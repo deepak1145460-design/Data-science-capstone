@@ -19,4 +19,4 @@ The notebooks are designed to be executed in order from **01 to 08**, with the o
 
 The project also includes data collection, data wrangling, exploratory data analysis, SQL analysis, interactive visualizations, and predictive analysis as required by the assignment.
 
-GitHub repository URL : 
+GitHub repository URL : https://github.com/deepak1145460-design/Data-science-capstone
